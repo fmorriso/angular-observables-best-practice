@@ -18,6 +18,6 @@
 * changed nearly all version specifications in package.json to specify just the major version needed, such as `^4.0.0` instead of something more specific, such as  `^4.2.4`
 * Used newer version of Angular
 * Used ng-bootstrap
-* Search service is in a separate directory via `ng generate`
-* SearchItem is a separate file.
-* Bootstrap styles are imported in `styles.scss` after overriding default font size to reduce it back to being closer to the default font size under Bootstrap 3.  See styles.scss for full details.
+* `SearchService` is in a separate directory via `ng generate`
+* `SearchItem` class is a separate file.
+* Bootstrap styles are imported in `styles.scss` after overriding default font size to reduce it back to being closer to the default font size under Bootstrap 3.  See `styles.scss` for full details.
