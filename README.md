@@ -15,7 +15,7 @@
 
 ## Changes to the original code
 * created with Angular-CLI with `--routing` and `style=scss`
-* changed nearly all version specifications in package.json to specify just the major version needed, such as `^4.0.0` instead of ^4.2.4
+* changed nearly all version specifications in package.json to specify just the major version needed, such as `^4.0.0` instead of something more specific, such as  `^4.2.4`
 * Used newer version of Angular
 * Used ng-bootstrap
 * Search service is in a separate directory via `ng generate`
